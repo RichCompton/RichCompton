@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RichCompton a.k.a Dr01dmasta && N1nja
 - 👀 I’m interested in ...
   Documenting my studies thoroughly and creating something of interest and use to others.
-  Making friends! Penetration-Testing, primarily, but Defensive Security and programming as well. The whole tech community at large is my pride and joy, really.
+  Making friends first but on the technical side, Penetration-Testing, primarily, but Defensive Security and programming as well. The whole tech community at large is my pride and joy, really.
   I've never met a better motley crew of good, positive people from all walks of life united by their common goals and nothing but supportive of each other.
   I learned Python first after getting my first computer in years with the first COVID stimulus check. Special thanks to Cory Althoff for getting me started and 
   making this journey seem possible for someone like me and to Codecademy for sponsoring me to use their materials for 3 months and help catapult me further into
